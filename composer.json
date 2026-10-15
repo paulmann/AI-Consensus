@@ -2,7 +2,7 @@
     "name": "paulmann/consensus-ai",
     "description": "A PHP-based consensus decision-making platform inspired by OpenCorum principles",
     "type": "project",
-    "license": "MIT",
+    "license": "PolyForm-Noncommercial-1.0.0",
     "require": {
         "php": ">=8.4",
         "ext-pdo": "*",

@@ -2,7 +2,7 @@
 
 > **Author:** Mikhail Deynekin – https://Deynekin.com – Mikhail@Deynekin.com  
 > **Version:** 1.0.0 (2026-04-27)  
-> **License:** MIT
+> **License:** PolyForm Noncommercial 1.0.0
 
 ## Overview
 

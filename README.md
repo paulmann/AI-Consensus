@@ -1,5 +1,8 @@
 # Consensus-AI
 
+<!-- md-i18n:switcher -->
+**Read this in:** English · [Deutsch](README.de.md) · [中文](README.zh.md) · [हिन्दी](README.hi.md) · [Español](README.es.md) · [Русский](README.ru.md)
+
 > **Author:** Mikhail Deynekin – https://Deynekin.com – Mikhail@Deynekin.com  
 > **Version:** 1.0.0 (2026-04-27)  
 > **License:** PolyForm Noncommercial 1.0.0
